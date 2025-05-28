@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Fikewa Akindolire
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Rooted in purpose, rising with innovation."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Sophomore, Business Management @ Morgan State University"
+  - "🔬 Research: Monitoring Urban Air Pollution from Satellite Data using Machine Learning"
+  - "📍 Based in Prince Georges County, MD"
+  - "🚀 Passionate about building products that empower people."
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
-image: /assets/images/me.jpg
+linkedin: https://www.linkedin.com/feed/
+image: /assets/images/IMG_7932.jpg
 ---
