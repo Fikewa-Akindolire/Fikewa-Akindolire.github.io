@@ -11,9 +11,9 @@ about:
   bio: |
     I’m currently a sophomore studying Business Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2028.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    From running my braiding business Blessed Braids by Kiwa to exploring the future of AI and product management, I love bringing ideas to life. 
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I'm also a lover of culture, movement, and community-from ASA African dance and jazz to volunteering and connecting with others. 
 
   hobbies:
     - icon: 🥍
