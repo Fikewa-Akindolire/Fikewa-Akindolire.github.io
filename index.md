@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building products that empower people."
 
 linkedin: https://www.linkedin.com/feed/
-image: /assets/images/IMG_7932.jpg
+image: /assets/images/10580.jpg
 ---
