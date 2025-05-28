@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Fikewa Akindolire
   role: Sophomore, Business Management Major at Morgan State University
-  image: /assets/images/10580.jpg
+  image: /assets/images/IMG_6892.jpeg
   linkedin: https://www.linkedin.com/feed/
   bio: |
     I’m currently a sophomore studying Business Management at Morgan State University in Baltimore, Maryland. I expect to graduate in 2028.
@@ -31,7 +31,7 @@ about:
       caption: Practicing Lacrosse before the game!
     - image: /assets/images/IMG_1913.jpg
       caption: The logo for my hair braiding business
-    - image: /assets/images/IMG_1913.jpg
+    - image: /assets/images/IMG_6894 (1).jpeg
       caption: My step performance at my high school pep rally. 
     - image: /assets/images/25953.jpg
       caption: One of my favorite chefs, who I find really funny 😂.
